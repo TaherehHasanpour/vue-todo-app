@@ -1,7 +1,7 @@
 <template>
     <main class="mx-auto text-center">
         <div class="space-y-5">
-            <h1 class="text-3xl dark:text-white font-medium">Todo App (By MMD)</h1>
+            <h1 class="text-3xl dark:text-white font-medium">Todo App</h1>
 
             <!-- * search & filter -->
             <div>
